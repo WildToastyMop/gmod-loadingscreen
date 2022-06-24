@@ -5,7 +5,7 @@ var Config = {};
  * What should the text in the center of the screen be?
  * if empty it will fill in your Server Name
  */
-Config.title = "Godfather Gaming";
+Config.title = "Noose Networks";
 
 /**
  * Enable map text in the top left corner of the screen?
@@ -27,7 +27,8 @@ Config.enableAnnouncements = true;
  * only works if enableAnnouncements = true
  */
 Config.announceMessages = [
-  "Enjoy your stay!"
+  "If the name offends you please leave!",
+  "Dont be cringe."
 ];
 
 /**
